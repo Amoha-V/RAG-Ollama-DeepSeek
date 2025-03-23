@@ -63,7 +63,7 @@ def generate_answer(user_query, context_documents):
     return response_chain.invoke({"user_query": user_query, "document_context": context_text})
 
 # Streamlit UI Configuration
-st.title("📘 DocuMind AI")
+st.title("DocQuery AI")
 st.markdown("### Your Intelligent Document Assistant")
 st.markdown("---")
 
