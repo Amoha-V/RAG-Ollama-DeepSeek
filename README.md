@@ -49,7 +49,9 @@ RAG-Ollama-DeepSeek/
 ├── resumetemplate.pdf      # Sample PDF for testing
 └── README.md               # Project documentation
 ```
-
+## `Demo Video`
+  https://github.com/user-attachments/assets/536e33f5-62b0-4145-85c7-7c22bc068b10
+  
 ## File Descriptions
 
 ### `requirements.txt`
@@ -80,9 +82,6 @@ RAG-Ollama-DeepSeek/
 - A Streamlit-based chat application using the DeepSeek-R1 model
 - Allows users to interact with the AI assistant for general queries and coding-related questions
 - Provides a conversational interface without the document retrieval functionality
-
-## `Demo Video`
-  https://github.com/user-attachments/assets/536e33f5-62b0-4145-85c7-7c22bc068b10
 
 ## Installation
 
